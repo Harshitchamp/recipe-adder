@@ -4,7 +4,7 @@
 The **Inventor App** is a web-based application designed to streamline the management of inventor-related data. Built using the MVC (Model-View-Controller) architecture, it ensures modularity, scalability, and a clean separation of concerns. This project utilizes Node.js, Express.js, and modern web technologies to provide a robust and efficient solution for managing inventor information.
 
 ### 🌐 Live Demo
-[Check out the live application here](https://inventory-web-page-1.onrender.com) 
+[Check out the live application here](https://recipe-adder.onrender.com) 
 
 ---
 
@@ -111,9 +111,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-## 📧 Contact
-For any inquiries, feel free to reach out:
-- **Author**: Sachin Singh
-- **GitHub**: [sachiinn05](https://github.com/sachiinn05)
-- **Email**: sachinsingh6386@gmail.com
+
 
