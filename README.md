@@ -1,7 +1,7 @@
-# Inventor App Using MVC
+# Recipe App Using MVC
 
 ## 📖 Overview
-The **Inventor App** is a web-based application designed to streamline the management of inventor-related data. Built using the MVC (Model-View-Controller) architecture, it ensures modularity, scalability, and a clean separation of concerns. This project utilizes Node.js, Express.js, and modern web technologies to provide a robust and efficient solution for managing inventor information.
+The **Recipe App** is a web-based application designed to streamline the management of recipe-related data. Built using the MVC (Model-View-Controller) architecture, it ensures modularity, scalability, and a clean separation of concerns. This project utilizes Node.js, Express.js, and modern web technologies to provide a robust and efficient solution for managing inventor information.
 
 ### 🌐 Live Demo
 [Check out the live application here](https://recipe-adder.onrender.com) 
